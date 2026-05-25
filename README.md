@@ -31,9 +31,6 @@
 
 <br>
 
-<div align="center">
-  <i>"If you don't laugh at my jokes, send them to a developer/designer Because you are not the one."</i>
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
