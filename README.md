@@ -1,179 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Muhammad%20Zeeshan%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Unity%20Game%20Developer%20%7C%20Co-Founder%20%40%20Unicodrex%20%7C%20Community%20Builder&descAlignY=62&descSize=15&descAlign=50" />
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Shams%20Zia&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Founder%20%40%20Unicodrex%20%7C%20DevSecOps%20Enthusiast%20%7C%20CNCF%20Co-organizer&descAlignY=62&descSize=15&descAlign=50)](https://github.com/shamas202)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Unity+Game+Developer+%F0%9F%8E%AE;Co-Founder+%40+Unicodrex+%F0%9F%9A%80;Mentored+500%2B+Developers+%F0%9F%A4%9D;Training+%40+CEGA+Pakistan+%F0%9F%8E%93;Open+to+Game+Dev+Internships+%E2%9C%85" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Founder+%40+Unicodrex+%F0%9F%9A%80;DevSecOps+Enthusiast+%F0%9F%9A%80;CNCF+Co-organizer+%F0%9F%8E%87;Open+Source+Contributor+%F0%9F%92%AC;Cloud-Native+Expert+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎮%20Open%20to-Game%20Dev%20Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge" />
-</p>
+![Open to Remote Opportunities](https://img.shields.io/badge/🌍-Open%20to%20Remote%20Opportunities-22c55e?style=for-the-badge)
 
-<p align="center">
-  <a href="https://linkedin.com/in/zeeshan020">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://x.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/X-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="mailto:zeeshanislam015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://facebook.com/zeeshan020">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://instagram.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shams-zia/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/hey_itx_shams/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/profile.php?id=100013779617118)
+[![GitHub](https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github)](https://github.com/shamas202)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/zeeshan020dev?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
-  <a href="https://github.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=shamas202&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117)](https://github.com/shamas202)
+[![GitHub Followers](https://img.shields.io/github/followers/shamas202?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117)](https://github.com/shamas202)
 
 ---
 
 ## 👾 About Me
 
 ```yaml
-name: Muhammad Zeeshan Islam
-role: Unity Game Developer | Co-Founder @ Unicodrex
+name: Shams Zia
+role: Founder @ Unicodrex | DevSecOps Enthusiast | Community Builder
 location: Lahore, Pakistan
 
 what_i_do:
-  - Build games with Unity & C#
-  - Mentor Students on GitHub & LinkedIn visibility
-  - Organize tech events bridging academia & industry
-  - Write AI-assisted prompts & workflows
+  - 🚀 Growing Unicodrex and the developer community
+  - 🛡️ Passionate about DevSecOps and Cloud-Native security
+  - 🌐 Organizing tech events via CNCF
+  - 💻 Contributing to Open Source projects
 
 currently:
-  - 🎮 Training in Unity3D at CEGA Pakistan
-  - 🏗️ Building the next Unicodrex mentorship series
-  - 📚 Studying C# design patterns & game architecture
+  - 📚 Learning Advanced AI through Anthropic AI certifications
+  - ☁️ Collaborating on Cloud-Native computing & AI Hackathons
+  - 🧠 Brainstorming open-source architecture
 
 passionate_about:
-  - 🎮 Game development & interactive experiences
-  - 🤝 Community building & student mentorship
-  - ⚡ Competitive programming & hackathons
-  - 🔗 Blockchain & cryptocurrency
+  - 🚢 Docker, Kubernetes & Infrastructure as Code
+  - 🤖 Artificial Intelligence & Automation
+  - 🌍 Building impactful developer communities
+  - 🏋️‍♂️ Gym and a good PR (Pull Request!)
 
 open_to:
-  - On-site Game Dev internships (Lahore / Pakistan)
-  - Junior Unity Developer roles
-  - Hackathon collaborations
-  - Speaking at student tech events
+  - Remote Software Engineering roles
+  - DevSecOps / Cloud Engineering opportunities
+  - Open Source collaboration & AI research
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,github,git,arduino,vscode&perline=9" />
-</p>
+### 🚀 Core Proficiency
+
+[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,php,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,git,github,docker,kubernetes,linux,arduino,vscode&perline=11)](https://skillicons.dev)
+
+### 🛡️ Specialized Toolset & Ecosystem
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 🎮 Games I've Shipped
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏃 Endless Runner</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
-      <p>
-  <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-    <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
-    <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💣 Ball Blast Game</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://play.unity.com/en/games/3c693589-8b12-442a-bc49-d595288b16eb/shooting-game">
-    <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
-  </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Obstacle Game</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
-  <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 Snake Game</h3>
-      <p><b>C++ · Console</b></p>
-      <p>Fully console-based Snake in C++. Custom render loop, collision logic, and growing body mechanics — no engine, pure logic.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Snake-Game">
-      <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛡️ DevSecOps Pipeline — `Docker · Kubernetes · GitHub Actions`
 
-### ♟️ Tic Tac Toe — Minimax AI &nbsp;&nbsp; `C++ · DSA · Semester Project`
+End-to-end CI/CD pipeline with integrated security scanning using **Trivy + SonarQube + Snyk**. Automated container builds, image vulnerability scans, and Kubernetes deployment with zero-downtime rollouts.
 
-Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI plays optimally every time — built as a semester Data Structures & Algorithms project.
+[![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
-<a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Game">
-  <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
+### ☁️ Cloud-Native Infrastructure — `Terraform · AWS · Ansible`
 
----
+Infrastructure as Code project provisioning full AWS environments — VPCs, EKS clusters, RDS instances, and monitoring stacks using Terraform modules and Ansible playbooks.
 
-## 📌 Pinned Projects
+[![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
-<p align="center">
-  <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Endless-Runner-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Tic-Tac-Toe-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Ball-Blast-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/zeeshan020dev/Snake-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Snake-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+### 🌐 CNCF Community Platform — `Open Source · Community`
+
+Community tooling and event coordination resources for **CNCF Cloud Native Lahore** — bridging academia and industry for 500+ developers across Pakistan.
+
+[![Source Code](https://img.shields.io/badge/Source_Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shamas202)
 
 ---
 
 ## 🏗️ What I'm Currently Working On
 
-- 🎮 Advancing Unity at **CEGA Pakistan** — physics systems, game feel, and optimization
-- 🌐 Growing **Unicodrex** — structured mentorship series for students targeting their first tech role
-- 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
+- 🛡️ Deepening expertise in **DevSecOps** — container security, supply chain security, and zero-trust architectures
+- 🌐 Scaling **Unicodrex** — mentorship series targeting students' first DevOps/Cloud roles
+- 📚 Advancing knowledge in **Kubernetes internals**, **service mesh (Istio)**, and **GitOps with ArgoCD**
 
 ---
 
 ## 🤝 Unicodrex — Community Work
 
-I co-founded Unicodrex to close the gap between what universities teach and what the industry expects.
+I founded Unicodrex to close the gap between what universities teach and what the industry expects.
 
 | What | Numbers |
 |------|---------|
@@ -186,65 +118,46 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshan020dev&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
-</p>
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shamas202&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/shamas202)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamas202&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/shamas202)
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=shamas202&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true&background=0d1117" />
-</p>
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shamas202&theme=react&hide_border=true&background=0d1117)](https://github.com/shamas202)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan020dev&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamas202&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true)](https://github.com/shamas202)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan020dev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshan020dev&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan020dev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeshan020dev&theme=github_dark&utcOffset=5" />
-</p>
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamas202&theme=github_dark)](https://github.com/shamas202)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamas202&theme=github_dark)](https://github.com/shamas202)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamas202&theme=github_dark)](https://github.com/shamas202)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamas202&theme=github_dark&utcOffset=5)](https://github.com/shamas202)
 
 ---
 
 ## 📈 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
+[![3D Contribution Graph](https://raw.githubusercontent.com/shamas202/shamas202/main/profile-3d-contrib/profile-night-green.svg)](https://raw.githubusercontent.com/shamas202/shamas202/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shamas202/shamas202/output/github-snake.svg" />
+</picture>
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **on-site Game Development internships or junior roles** in Pakistan.
-If you're hiring, mentoring, or just want to talk games and community — reach out.
+I'm always open to discussing **Cloud-Native architectures**, **DevSecOps**, or **Community building**. If you're looking for a collaborator or just want to talk tech — reach out!
 
-<p align="center">
-  <a href="https://linkedin.com/in/zeeshan020">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:zeeshanislam015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams-zia/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamszia@example.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+> *"If you don't laugh at my jokes, send them to a developer/designer — because you are not the one."*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)](https://github.com/shamas202)
